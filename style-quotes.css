@@ -50,6 +50,11 @@ p {
   font-family: 'Ubuntu', sans-serif;
 }
 
-footer a {
+.footer img {
+  height: 40px
+
+}
+
+.footer a {
   color: #EAF0CE;
 }
